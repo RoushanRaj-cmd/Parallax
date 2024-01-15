@@ -29,7 +29,7 @@ height, width and background color */
 .parallax-2 {
 	width: 100%;
 	height: 600px;
-	background: url('robo.jpeg');
+	background: url('https://github.com/RoushanRaj-cmd/Parallax/blob/19e087a5c94cdb3b48ca300eaaeb85513dbbbe3d/robo.jpeg');
 	background-size: 100% 100%;
 	background-attachment: fixed;
 }

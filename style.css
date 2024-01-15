@@ -4,7 +4,7 @@ height, width and background color */
 
     width: 100%;
     height: 600px;
-    background: url('./arduino-4753005.jpg');
+    background: url('./raspberry-pi-4980917.jpg');
 	background-size: 100% 100%;
 	background-attachment: fixed;
 }
@@ -29,7 +29,7 @@ height, width and background color */
 .parallax-2 {
 	width: 100%;
 	height: 600px;
-	background: url('./raspberry-pi-4980917.jpg');
+	background: url('');
 	background-size: 100% 100%;
 	background-attachment: fixed;
 }
